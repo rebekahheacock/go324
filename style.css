@@ -5,9 +5,31 @@
  Author:       Rebekah Heacock Jones
  Author URI:   
  Template:     foodica
- Version:      1.0.0
+ Version:      1.1.1
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         
  Text Domain:  foodica-child
 */
+
+
+.page h1.entry-title, .single h1.entry-title {
+	font-weight: 400;
+}
+
+.entry-meta {
+	font-family: 'Roboto Condensed', sans-serif;
+	text-transform: uppercase;
+}
+
+.widget {
+	text-align: left;
+}
+
+#search-2 {
+	text-align: center;
+}
+
+.widget .title {
+	font-weight: 400;
+}
