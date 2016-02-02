@@ -33,3 +33,11 @@
 .widget .title {
 	font-weight: 400;
 }
+
+.site-header .widget {
+	margin-bottom: 0px;
+}
+
+.navbar-brand {
+	margin: 0px;
+}
